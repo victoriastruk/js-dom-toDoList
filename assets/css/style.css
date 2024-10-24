@@ -52,7 +52,9 @@ input {
   transition: 0.3s;
   background-color: rgb(64, 146, 228);
 }
-
+ul {
+  width: 100%;
+}
 .list-item {
   display: flex;
   align-items: center;
